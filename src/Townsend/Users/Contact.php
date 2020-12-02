@@ -57,7 +57,8 @@ class Contact
      * @param $newsletter
      * @param $ipAddress
      */
-    public function __construct(String $name, String $phone, String $email, String $message, int $newsletter, String $ipAddress) {
+    public function __construct(String $name, String $phone, String $email, String $message, int $newsletter, String $ipAddress)
+    {
         $this->name = $name;
         $this->phone = $phone;
         $this->email = $email;
@@ -75,10 +76,11 @@ class Contact
         $pdo = new PDO('mysql:host=localhost:33056;dbname=townsend', 'townsend', 'marketta8');
         $stmt = $pdo->prepare("INSERT INTO `Contact` (`name`, `phone`, `email`, `message`, `newsletter`, `ipAddress`, `timestamp` ) VALUES (?, ?, ?, ?, ?, ?, ?)");
         $stmt->execute(array($this->name, $this->phone, $this->email, $this->message, $this->newsletter, $this->ipAddress, time()));
+        return "Contact inserted";
     }
 
     public function notifyAdmin()
     {
-        mail("admin@site.com", "Contact details", $this->name . ", " . $this->phone. ", " . $this->email. ", " . $this->message. ", " . $this->newsletter. ", " . $this->ipAddress);
+        //mail("admin@site.com", "Contact details", $this->name . ", " . $this->phone. ", " . $this->email. ", " . $this->message. ", " . $this->newsletter. ", " . $this->ipAddress);
     }
 }

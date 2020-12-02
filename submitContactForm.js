@@ -19,6 +19,7 @@ $(document).ready(function()
                     //var obj = jQuery.parseJSON(data); if the dataType is not     specified as json uncomment this
                     // do what ever you want with the server response
                     console.log(returnData);
+                    $("#information").html(returnData)
                 },
                 error: function(jqXHR, exception) {
                     var msg = "";

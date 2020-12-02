@@ -15,7 +15,7 @@ use Townsend\Json\JsonMessage;
 use Townsend\Security\Validator;
 
 if (!CsrfGuard::isValidToken($_POST['CSRFGuard_name'],$_SESSION['token'])) die("Invalid token go away") ;
-echo "It succeeded";
+
 
 $failMessage= "";
 $newsletter = 0;

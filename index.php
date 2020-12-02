@@ -69,6 +69,7 @@ $_SESSION["token"] = Townsend\Security\CsrfGuard::generateToken();
                 <input type="submit" id="submitForm" value="Submit">
             </div>
         </form>
+    <div id="information"></div>
     </body>
     <footer>
         © 2020 Noel Garside
