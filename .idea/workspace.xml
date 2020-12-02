@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7645651-5841-4ed9-8455-5c117901118a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1l1KrUbJCp9HI58kRiM5bWTki30" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chris\Documents\Employment\townsend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chris\Documents\Employment\townsend\src\townsend\users" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7645651-5841-4ed9-8455-5c117901118a" name="Default Changelist" comment="" />
+      <created>1606759355746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606759355746</updated>
+      <workItem from="1606759356930" duration="13122000" />
+      <workItem from="1606823801884" duration="12044000" />
+      <workItem from="1606846548445" duration="11960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1606760083098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="174" key="#CLI_Interpreters/1920.0.1920.1040/3840.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1606760083098" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1606841169246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/3840.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1606841169246" />
+    <state x="739" y="394" key="#com.jetbrains.php.refactoring.move.member.PhpMoveMemberDialog#" timestamp="1606840758886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="394" key="#com.jetbrains.php.refactoring.move.member.PhpMoveMemberDialog#/1920.0.1920.1040/3840.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1606840758886" />
+    <state x="835" y="274" key="FileChooserDialogImpl" timestamp="1606843836518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="835" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/3840.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1606843836518" />
+    <state x="700" y="242" key="NewPhpClassDialog" timestamp="1606843772200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="242" key="NewPhpClassDialog/1920.0.1920.1040/3840.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1606843772200" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1606760219325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/1920.0.1920.1040/3840.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1606760219325" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1606760088114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/1920.0.1920.1040/3840.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1606760088114" />
+    <state x="707" y="263" width="696" height="513" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1606843918611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="263" width="696" height="513" key="com.jetbrains.php.test.PhpNewTestDialog/1920.0.1920.1040/3840.0.1280.680/0.0.1920.1040@0.0.1920.1040" timestamp="1606843918611" />
+  </component>
+</project>
