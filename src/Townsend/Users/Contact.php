@@ -79,8 +79,12 @@ class Contact
         return "Contact inserted";
     }
 
+    /**
+     * Notify the admin if the news letter is subscribed
+     */
     public function notifyAdmin()
     {
-        //mail("admin@site.com", "Contact details", $this->name . ", " . $this->phone. ", " . $this->email. ", " . $this->message. ", " . $this->newsletter. ", " . $this->ipAddress);
+        //Wasn't using a real web server so mail would not work.
+        mail("admin@site.com", "Contact details", $this->name . ", " . $this->phone. ", " . $this->email. ", " . $this->message. ", " . $this->newsletter. ", " . $this->ipAddress);
     }
 }
